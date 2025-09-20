@@ -1,10 +1,4 @@
-/******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 //Escreva um programa que simule uma lista de números inteiros usando alocação dinâmica
 //(vetor que cresce a cada inserção).
 #include <stdio.h>
