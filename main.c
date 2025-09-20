@@ -38,7 +38,7 @@ int main()
     //Quando for caracter usa-se aspas simples
     }while(opc == 'S' || opc == 's');
     
-    //Liberando a memoria da alocalão dinamica
+    //Liberando a memoria da alocacão dinamica
     free(lista);
     
     return 0;
